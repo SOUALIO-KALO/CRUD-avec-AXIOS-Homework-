@@ -1,0 +1,14 @@
+{
+  "name": "request-js",
+  "version": "1.0.0",
+  "main": "axios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kalo soualio",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
+}
